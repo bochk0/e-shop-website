@@ -18,3 +18,23 @@ header a:hover {
     color: #FE980F !important;
 }
 
+.banner {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer a {
+    color: #999;
+    padding-left: 0;
+}
+
+.footer a:hover {
+    color: #0061C2;
+}
