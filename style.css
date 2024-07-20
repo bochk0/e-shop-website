@@ -38,3 +38,18 @@ header a:hover {
 .footer a:hover {
     color: #0061C2;
 }
+
+@media screen and (max-width:600px) {
+    .logo {
+        text-align: center;
+    }
+
+    .top-menu {
+        justify-content: center !important;
+    }
+
+    .footer .col-6 {
+        padding-left: 10%;
+        padding-bottom: 10%;
+    }
+}
